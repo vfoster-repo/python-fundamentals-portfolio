@@ -171,7 +171,7 @@ See my other repositories for advanced data analysis projects.
 
 **Victor Foster**
 - GitHub: [@vfoster-code](https://github.com/vfoster-code)
-- LinkedIn: [Victor Foster](https://linkedin.com/in/vfoster-code)
+- LinkedIn: [Victor Foster](https://linkedin.com/in/vfoster-connect)
 - Email: victorfoster@hotmail.com
 
 ## Acknowledgments
